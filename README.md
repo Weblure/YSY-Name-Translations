@@ -1,2 +1,2 @@
 
-[![Deploy static content to Pages](https://github.com/BaigeiGu/BaigeiGu.github.io/actions/workflows/vite.yml/badge.svg)](https://github.com/BaigeiGu/BaigeiGu.github.io/actions/workflows/vite.yml)
+[![Deploy static content to Pages](https://github.com/Weblure/YSY-Name-Translations/actions/workflows/vite.yml/badge.svg)](https://github.com/Weblure/YSY-Name-Translations/actions/workflows/vite.yml)
